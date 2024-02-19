@@ -1,0 +1,12 @@
+nltk
+pandas
+numpy
+matplotlib
+gensim
+scikit-learn
+langdetect
+contractions
+wordcloud
+spacy
+seaborn
+notebook
