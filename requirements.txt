@@ -1,0 +1,16 @@
+scipy==1.12
+gensim
+spacy
+nltk
+pyLDAvis
+pandas
+pyarrow
+fastparquet
+seaborn
+notebook
+IProgress
+matplotlib
+scikit-learn
+xgboost
+huggingface_hub
+lingua-language-detector
