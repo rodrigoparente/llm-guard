@@ -14,3 +14,5 @@ scikit-learn
 xgboost
 huggingface_hub
 lingua-language-detector
+torch
+transformers
